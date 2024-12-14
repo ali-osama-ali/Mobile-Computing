@@ -1,0 +1,42 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/Ecommerce-Mobile-App/app/src/main/res/layout/fragment_team.xml" value="0.21784420289855072" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable-v24/background_btn2_intro.xml" value="0.2265" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable-v24/background_intro.xml" value="0.2265" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable-v24/background_intro2.xml" value="0.124" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable-v24/background_intro3.xml" value="0.124" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable/add_icon.xml" value="0.2265" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/drawable/add_remove_background.xml" value="0.2265" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_admin_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_chart_generated.xml" value="0.176" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_choise.xml" value="0.152" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_custom_dialog_class.xml" value="0.176" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_forget_password.xml" value="0.152" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_maps.xml" value="0.11302083333333333" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_report_generated.xml" value="0.11302083333333333" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_scan_code.xml" value="0.16799999999999998" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_show_rating.xml" value="0.264" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_sign_up.xml" value="0.21784420289855072" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_splash.xml" value="0.152" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/activity_upload_product.xml" value="0.264" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/fragment_home.xml" value="0.21784420289855072" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/fragment_team.xml" value="0.21784420289855072" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/layout/product_item.xml" value="0.2" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/menu/adminmenu4.xml" value="0.11302083333333333" />
+        <entry key="..\:/1_FCIS matirials/4th year materials/1st_term/Mobile_Computing/Ecommerce-Mobile-App/app/src/main/res/menu/menu_items.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
